@@ -1,2 +1,3 @@
 # eye_deeplearning
 AI眼科医生人工智能项目Django
+缺少unet分割模型和fasterrcnn检测模型pth文件
